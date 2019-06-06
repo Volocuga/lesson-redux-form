@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1344a40-f05f-49d8-b74c-dc4bdaec8095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/components/Launch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/components/LaunchItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/components/Launches.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/components/MissionStatus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/client/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/precache-manifest.05a19cb89ee8f1e177c8c9e8ac033686.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/css/main.9194f157.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/css/main.9194f157.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/2.48110ea6.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/2.48110ea6.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/main.0927c868.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/main.0927c868.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/runtime~main.fdfcfda2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/public/static/js/runtime~main.fdfcfda2.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spacelaunch2/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="b1344a40-f05f-49d8-b74c-dc4bdaec8095" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -62,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Registration/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="383">
+              <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/components/Registration/validation.js" />
         <option value="$PROJECT_DIR$/src/components/FormFields/index.js" />
         <option value="$PROJECT_DIR$/src/components/Registration/index.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -197,18 +170,18 @@
       <updated>1559752302655</updated>
       <workItem from="1559752305676" duration="846000" />
       <workItem from="1559757390294" duration="8933000" />
-      <workItem from="1559843212579" duration="4785000" />
+      <workItem from="1559843212579" duration="5239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14564000" />
+    <option name="totallyTimeSpent" value="15018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="25" width="1323" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1374808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1374808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -222,7 +195,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5109375" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,11 +273,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Registration/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        <state relative-caret-position="383">
+          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
