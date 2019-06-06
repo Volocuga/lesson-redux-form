@@ -13,7 +13,7 @@ const matchingPassword = (value, allValues) =>
 
 const asyncValidate = async values => {
   const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-  await sleep(2000);
+  await sleep(3000);
   if (values.password.length < 3) {
     return Promise.reject({ password: "Password less 3 charters" });
   }
